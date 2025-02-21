@@ -7,4 +7,8 @@
 }
 .added-another-class {
   background: red;
+  background-clip: text;
+}
+.added-more-classes {
+  text: green;
 }
