@@ -1,5 +1,6 @@
 .cool-class {
   background: green;
+  background-clip: text;
 }
 .another-cool-class {
   background: yellow;
